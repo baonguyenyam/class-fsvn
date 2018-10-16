@@ -1222,8 +1222,8 @@ header .header-logo a {
   border: none;
   width: 220px;
   max-width: 220px;
-  height: 80px;
-  background: url("../img/logo.png") no-repeat center;
+  height: 100px;
+  background: url("../img/neta-logo-1.png") no-repeat center;
   background-size: 220px auto;
   font: 0/0 a;
   text-shadow: none;
