@@ -30,6 +30,12 @@
 /* 1. Defaults & Reset of specific styles across browsers */
 /*------------------------------------------------------------------------------------------*/
 
+.col-2-3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 *, *:before, *:after {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
