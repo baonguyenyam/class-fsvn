@@ -1,0 +1,17 @@
+
+@media screen and ( max-width: 576px){
+    .tp-splitted.tp-charsplit{font-size: 2rem}
+    .tp-mask-wrap{
+        margin-left: -4rem!important;
+    }
+}
+.tp-caption.tp-resizeme.rs-parallaxlevel-10.splitted{
+    font-size: 80px
+}
+.brk-header-mobile__logo-1{
+    max-height: 2.5rem;
+}
+.brk-testimonials-dash-six__title-slider{
+    font-size: 2rem!important;
+    font-family: "Open Sans",sans-serif!important;
+}
